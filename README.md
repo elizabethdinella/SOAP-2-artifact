@@ -4,7 +4,7 @@ This repository contains the artifact for evaluation of
 
 [On the Effctiveness of Modular Testing with EvoSuite]
 
-Our modification to EvoSuite (MUSE) can be found [here](https://github.com/elizabethdinella/evosuite), but the built jar is included in this repository.
+Our modification to EvoSuite (EMOTE) can be found [here](https://github.com/elizabethdinella/evosuite), but the built jar is included in this repository.
 
 This repository contains:
 1. Target benchmark jars (First five projects of SF100)
